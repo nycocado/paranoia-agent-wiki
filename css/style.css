@@ -1,0 +1,51 @@
+@font-face {
+    font-family: Montserrat;
+    src: url("font/montserrat.ttf");
+}
+
+body {
+    background-color: #3b3b3b;
+    margin-bottom: 80px;
+}
+
+p {
+    color: white;
+    font-family: Montserrat;
+}
+
+h1 {
+    color: white;
+    font-family: Montserrat;
+}
+
+.characters img {
+    height: 200px;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 20px;
+}
+
+.icon {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.column {
+    flex: 1;
+    min-width: 300px;
+    max-width: 700px;
+}
+
+.column iframe {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+}
