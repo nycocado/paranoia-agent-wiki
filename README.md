@@ -1,25 +1,27 @@
 # paranoia-agent-wiki
 
-Wiki de Paranoia Agent — exercício HTML5 / CSS3 para a disciplina de Programação WEB.
+Paranoia Agent wiki — HTML5 / CSS3 exercise for the WEB Programming course.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-3da639.svg)](LICENSE)
-![Status](https://img.shields.io/badge/status-concluído-6f42c1)
+![Status](https://img.shields.io/badge/status-completed-6f42c1)
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](https://developer.mozilla.org/)
 
-## Sobre
+[Portuguese](README.pt.md) | English
 
-Página web de referência sobre o anime Paranoia Agent (Mōsō Dairinin), dirigido por Satoshi Kon. Contém resumo da trama, galeria de personagens com links para a fandom wiki e trailer embutido do YouTube.
+## About
 
-## Como executar
+Reference web page about the anime Paranoia Agent (Mousou Dairinin), directed by Satoshi Kon. Contains a plot summary, character gallery with links to the fandom wiki, and an embedded YouTube trailer.
 
-Abrir o `index.html` num navegador. Não requer servidor — funciona diretamente do ficheiro.
+## How to run
 
-## Licença
+Open `index.html` in a browser. No server required — works directly from the file.
 
-Distribuído sob a licença **MIT**, © 2025 Nycolas Souza.
+## License
 
-É uma licença permissiva: qualquer pessoa pode usar, copiar, modificar e distribuir o código, inclusive em projetos comerciais, desde que mantenha o aviso de copyright e o texto da licença.
+Distributed under the **MIT** license, © 2025 Nycolas Souza.
 
-O texto completo está em [LICENSE](LICENSE).
+It is a permissive license: anyone can use, copy, modify, and distribute the code, including in commercial projects, as long as the copyright notice and license text are retained.
+
+The full text is in [LICENSE](LICENSE).
